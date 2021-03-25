@@ -1,0 +1,16 @@
+{
+  "name": "Healthy Chihuahuas ",
+  "short_name": "Healthy Chihuahuas ",
+  "theme_color": "#630abb",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
